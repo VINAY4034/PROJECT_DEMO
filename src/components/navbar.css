@@ -1,0 +1,7 @@
+.navdecor{
+position: sticky;
+top:0;
+margin-bottom: 30%;
+background-color: rgb(186, 184, 206);
+width: 1280px;
+}
